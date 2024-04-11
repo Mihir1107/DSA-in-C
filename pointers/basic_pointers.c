@@ -12,7 +12,7 @@ int main()
     printf("Address of a using pointer: %p\n",ptra);
 
     printf("Address of pointer: %p",&ptra);
-
+    
     printf("\n\nValue of a: %d",a);
     printf("\nValue of a using pointer: %d\n",*ptra); //getting value of a using dereferencing operator(*)
 
